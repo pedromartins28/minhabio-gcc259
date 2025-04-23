@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./img/avatar.jpeg" alt="Avatar de Pedro Martins" width="150" style="border-radius: 50%;">
+</p>
+
 # 👨‍💻 Pedro Martins
 
 📞 **Telefone:** (37) 99986-6066  
